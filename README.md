@@ -1,2 +1,2 @@
 # Coursera
-Coursera CSS-HTML-Javascripy
+Coursera CSS-HTML-Javascript
