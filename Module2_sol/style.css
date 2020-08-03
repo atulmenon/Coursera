@@ -1,5 +1,5 @@
 *{
-	box-sizing: border-box;
+	box-sizing:content-box;
 	margin: 0;
 	padding: 0;
 	clear: right;
@@ -9,7 +9,7 @@ div{
 	
 	background-color:  #e6e6e6;
 	border: 1px solid black;
-	width: 100px;
+	width: 47%;
 	margin: 10px;
 
 
@@ -41,6 +41,7 @@ h1{
 @media (min-width: 992px) {
  .col-lg-3, .col-lg-5, .col-lg-6 {
     float: left;
+    height: 150px;
   }
 
   
@@ -71,12 +72,14 @@ h1{
     width: 41.66%;
   }
   .col-md-6 {
-    width: 42%;
+    width: 46.5%;
+    height: 150px;
   }
   
   .fish {
   	clear: both;
-    width: 85%;
+    width: 95%;
+    height: 100px;
   }
 }
 
